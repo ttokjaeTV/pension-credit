@@ -225,5 +225,5 @@
     .ev-row .input-unit { right: 8px; font-size: 12px; }
     .sc-body, .sc-body.two { grid-template-columns: 1fr 1fr; }
   }
-  @media (max-width: 600px) { .scroll-hint { display: block; margin-bottom: -8px; } }
+  @media (max-width: 768px) { .scroll-hint { display: block; margin-bottom: -8px; } }
   @media (max-width: 420px) { .levers { grid-template-columns: 1fr; } .grid-4 { grid-template-columns: 1fr; } .hero-title { font-size: 28px; } }
